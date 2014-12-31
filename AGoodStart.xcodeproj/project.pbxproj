@@ -412,6 +412,7 @@
 				838EECCB1A4ABA4000924FC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		838EECCC1A4ABA4000924FC3 /* Build configuration list for PBXNativeTarget "AGoodStartTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +421,7 @@
 				838EECCE1A4ABA4000924FC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
